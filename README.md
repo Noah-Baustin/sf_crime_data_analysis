@@ -9,9 +9,14 @@ Repo for my Coding for Journalists final project.
 Analyzing how marijuana law enforcement has changed over time in San Francisco. Could include changes over time in:
 - The number of marijuana-involved incidents each year over time.
 - Which marijuana crimes were charged each year, comparing over time.
-- The number of felony vs. misdemeanor marijuana charges over time.
 - The locations in the city where crimes were charged.
 - The results of marijuana-involved incidents. (arrests, etc.)
+
+##### Additional possibilities:
+- Compare marijuana arrests to other types of crimes, like narcotics.
+
+##### Analysis that’s not feasible after looking at the data:
+- The number of felony vs. misdemeanor marijuana charges over time.
 
 #### Interviews:
 *You can read the rough notes from the interviews I've conducted in [this Google doc](https://docs.google.com/document/d/1-BAcVMG_gv_RyiF2uTdD1RFpmQl7z-1Jg9s_pL1wIBI/edit).*
