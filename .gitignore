@@ -2,7 +2,7 @@
 
 # the raw files are too big for GitHub
 raw_data/ 
-
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
