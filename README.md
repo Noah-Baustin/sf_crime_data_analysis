@@ -15,7 +15,7 @@ This data analysis seeks to answer the following questions:
 - Which types of marijuana crimes did SFPD report each year? Comparing the types of incidents over time.
 - How many marijuana-involved incidents did SFPD report different police districts across the city?
 
-The core of this data analysis is contained within four Python notebooks saved in this repo. They are labeled in the numerical order in which they should be run. (Begin with 01, then 02, etc.)
+The core of this data analysis is contained within four Python notebooks saved in this repo. They are labeled in the numerical order in which they should be run. (Begin with 01, then 02, etc.) Please ignore any Python notebooks that are not labeled with a number, they are 'scratch' notebooks that do not contain clear documentation. 
 
 Additional notes about the data:
 - In 2018, the SFPD released a new dataset of police incidents. You can read more about how the transitioned from their old dataset to the new database [here](https://drive.google.com/file/d/13n7pncEOxFTWig9-sTKnB2sRiTB54Kb-/view?usp=sharing).

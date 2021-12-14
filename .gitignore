@@ -1,8 +1,5 @@
 .DS_Store
 
-# the two scratch notebooks that I used to originally play around with this data
-Explore.Data.ipynb
-nb.data.exploration.ipynb
 
 # the raw files are too big for GitHub
 raw_data/ 
