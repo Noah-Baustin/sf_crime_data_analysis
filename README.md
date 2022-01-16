@@ -7,7 +7,7 @@ This data analysis project investigates how marijuana law enforcement has change
 1. SF police incident reports [2018 to present](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783).
 2. SF police incident reports: [2003 to May 2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry).
 
-The data used in this project was downloaded from the on Oct 14, 2021. Since the source data is regularly updated, you can download the data used in this analysis [here](https://drive.google.com/drive/folders/1RBFfl-G6BCBR9ZA79K6jrbFeBXJqpHJl?usp=sharing).
+The data used in this project was downloaded on Oct 14, 2021. Since the source data is regularly updated, you can download the data used in this analysis [here](https://drive.google.com/drive/folders/1RBFfl-G6BCBR9ZA79K6jrbFeBXJqpHJl?usp=sharing).
 
 This data analysis seeks to answer the following questions: 
 
