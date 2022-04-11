@@ -20,7 +20,7 @@ The core of this data analysis is contained within four Python notebooks saved i
 Additional notes about the data:
 - In 2018, the SFPD released a new dataset of police incidents. You can read more about how the transitioned from their old dataset to the new database [here](https://drive.google.com/file/d/13n7pncEOxFTWig9-sTKnB2sRiTB54Kb-/view?usp=sharing).
 - There is a lengthy data dictionary for this police incident database which is available [here](https://datasf.gitbook.io/datasf-dataset-explainers/sfpd-incident-report-2018-to-present).
-- The SFPD docomentation tells us that reports in this data are filed by officers or self-reported by members of the public using SFPD's online reporting system.
+- The SFPD documentation tells us that reports in this data are filed by officers or self-reported by members of the public using SFPD's online reporting system.
 - The SFPD docomentation tells us that data has been added to this set once incident reports have been reviewed and approved by a supervising Sergeant or Lieutenant. Incident reports may be removed from the dataset if in compliance with court orders to seal records or for administrative purposes such as active internal affair investigations and/or criminal investigations.
 
 *This project was reported and developed in fall 2021 by Noah Baustin for the J233: Coding for Journalists course at the UC Berkeley Graduate School of Journalism, taught by Soo Oh.*
